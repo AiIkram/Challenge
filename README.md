@@ -113,7 +113,7 @@ The winner will be determined by the submission that achieves the best average r
    *Base : Main
    *Name Submission: <your_username>
    *Compare: your fork/branch with the submission file
-5. Leaderboard updated within 24 hours
+5. Leaderboard updated within 24 hours :https://noormajdoub.github.io/Challenge/ 
 
 Good luck, and may the best aggregation strategy win! 
 ## Resources
